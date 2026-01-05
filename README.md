@@ -2,4 +2,6 @@ This project is part of The Odin Project's foundations course, and is the sole p
 I will have demonstrated mastery of HTML upon completion.
 
 ##Credits
-**Ratatouille Photo** by mosiaonegrl (https://pixabay.com/photos/ratatouille-food-vegetables-2870901/) via Pixabay
+**Ratatouille Photo** by mosiaonegrl (https://pixabay.com/photos/ratatouille-food-vegetables-2870901/) via Pixabay.
+**Fried Chicken Photo** by Lebensmittelfotos
+Lebensmittelfotos (https://pixabay.com/photos/chicken-nuggets-chicken-breaded-1108/) via Pixabay.
