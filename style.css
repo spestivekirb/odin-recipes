@@ -1,0 +1,18 @@
+* {
+    background-color: lightgreen;
+}
+h1, 
+h2 {
+    font-family: "Brush Script MT", sans-serif;
+}
+
+h1, 
+.image {
+    background-color:orange;
+    margin: 0px;
+}
+
+.home {
+    text-align: center;
+    list-style-position: inside;
+}
